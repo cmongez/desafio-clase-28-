@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mundo",
+    "price": "150",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-512.png",
+    "id": 1,
+    "timestamp": 1661987729563
+  },
+  {
+    "title": "Libro",
+    "price": "200",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/book-note-paper-school-512.png",
+    "id": 2,
+    "timestamp": 1661987763958
+  },
+  {
+    "title": "Manzana verde",
+    "price": "10",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/apple-fruit-science-school-512.png",
+    "id": 3,
+    "timestamp": 1661987792414
+  }
+]
